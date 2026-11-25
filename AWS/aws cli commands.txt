@@ -1,0 +1,6 @@
+# aws iam list-users
+# sudo vi index.html 
+# cat index.html
+# cat etc/os-release 
+# cd /var/www/html 
+

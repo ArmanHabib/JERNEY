@@ -1,0 +1,25 @@
+Access Key
+5a6cc506047208e4cdffc6fbefe3dd57e3c95c6b
+
+Secret Key
+sti3mw0c7ysT8Yr8e9uzZgk0DwvGrEmm9rY8EqUPoZ4=
+
+service id 
+
+https://idfc8ofo0icn.compat.objectstorage.us-ashburn-1.oraclecloud.com
+
+
+Object storage repository was successfully created.
+Name: OCI Object
+Description: Created by .\svcVBKadmin at 10/26/2026 2:16 AM.
+Type: S3-compatible
+Gateway server: direct connection
+Service point: https://idfc8ofo0icn.compat.objectstorage.us-ashburn-1.oraclecloud.com
+Region: us-ashburn-1
+Bucket: bucket-20261026-1156
+Folder: Rial
+Concurrent tasks limit: unlimited
+Storage consumption limit: unlimited
+Backups will not be immutable
+Mount server: AMMA-HV3-New (Windows)
+Helper appliance: AMMA-HV3-New

@@ -1,0 +1,25 @@
+iad-dop-lab06-1-ocir-1/oci_sample_webapp_user22
+
+
+idfc8ofo0icn/armanhabibrial@gmail.com
+
+
+
+da4S}]17e_vxx.w{-6lT
+
+
+docker tag oci_sample_webapp_user22:1.0 iad.ocir.io/idfc8ofo0icn/iad-dop-lab06-1-ocir-1/oci_sample_webapp_user22:latest
+
+docker push iad.ocir.io/idfc8ofo0icn/iad-dop-lab06-1-ocir-1/oci_sample_webapp_user22:latest
+
+
+kubectl create deployment deploy-user22 -- image=iad.ocir.io/idfc8ofo0icn/httpd:latest -n ns-user22
+
+kubectl expose deployment deploy-user22 --type=LoadBalancer --name=svc-user22 --port=80 --target-port=80 -n ns-user22
+
+
+kubectl create secret docker-registry ocir-secret-user22 
+--docker-server=iad.ocir.io --docker-username='idfc8ofo0icn/armanhabibrial@gmail.com' --docker-password='da4S}]17e_vxx.w{-6lT' --docker-email='armanhabibrial@gmail.com'
+-n ns-user22
+
+idfc8ofo0icn/user22

@@ -1,0 +1,20 @@
+How to Backup and Restore Your On-Prem Windows Machines on Azure
+
+https://www.youtube.com/watch?v=v6FeDFl5bpI
+
+
+Terraform A to Z
+https://www.youtube.com/watch?v=5sZAx2ylsOo&list=PL5jQH1Kzu9zpH-T9-z-cdrUEIsvLLRzUY&index=6
+
+
+Google Cloud 
+
+https://www.youtube.com/watch?v=ZhsQWxnzWrk
+
+
+Deploy to AWS with Terraform within a GitHub Action
+https://www.youtube.com/watch?v=GowFk_5Rx_I
+
+
+ci/cd with devops 
+https://www.youtube.com/watch?v=1QazSvGIUuA&t=3350s

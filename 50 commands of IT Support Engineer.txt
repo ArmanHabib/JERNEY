@@ -1,0 +1,26 @@
+1. ipconfig /all 
+2. ipconfig /release 
+3. ipconfig /renew 
+4. ipconfig /flushdns
+5. ping hostname 
+6. tracert hostname 
+7.pathping hostname 
+8. nslookup domain 
+9. netstat -ano 
+10 tasklist 
+11. systeminfo
+12. sfc /scannow
+13. gpuupdate /force 
+14.regedit
+15. msinfo 
+16. services.msc
+17. diskmgmt.msc
+
+
+Powersheel 
+46. Get-Process 
+47. Get-Service
+48. Restart-Service [service-name]
+
+
+

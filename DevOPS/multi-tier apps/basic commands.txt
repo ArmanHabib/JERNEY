@@ -1,0 +1,33 @@
+kubectl get svc
+kubectl get pods
+kubectl apply -f redis-follower-service.yaml
+kubectl apply --dry-run=client -f redis-follower-service.yaml
+cat redis-follower-service.yaml
+nano redis-follower-service.yaml
+rm -f redis-follower-deployment.yaml
+ cd Kubernetes_examples
+
+
+
+ocid1.tenancy.oc1..aaaaaaaalksgffx74psoiby7m25ydg7tivcnrlkzfs6qteme2plg4w5ua6pa
+
+
+
+DevOpsDG
+
+
+All {resource.compartment.id = 'ocid1.tenancy.oc1..aaaaaaaalksgffx74psoiby7m25ydg7tivcnrlkzfs6qteme2plg4w5ua6pa', Any {resource.type = 'devopsdeploypipeline', resource.type = 'devopsbuildpipeline', resource.type = 'devopsrepository', resource.type = 'devopsconnection', resource.type = 'devopstrigger'}}
+
+
+
+All {resource.type = 'devopsconnection', resource.compartment.id = 'ocid1.tenancy.oc1..aaaaaaaalksgffx74psoiby7m25ydg7tivcnrlkzfs6qteme2plg4w5ua6pa'}
+
+
+
+iad.ocir.io/armanhabibrial/IAD-DOP-LAB09-1-DP-01-User22/github_docker-helloworld-demo_User22:${BUILDRUN_HASH}
+
+
+github_docker-helloworld-demo
+
+
+iad.ocir.io/idfc8ofo0icn/IAD-DOP-LAB09-1-DP-01-User22/github_docker-helloworld-demo:${BUILDRUN_HASH}

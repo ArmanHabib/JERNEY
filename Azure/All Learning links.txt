@@ -1,0 +1,26 @@
+How to Backup and Restore Your On-Prem Windows Machines on Azure
+
+https://www.youtube.com/watch?v=v6FeDFl5bpI
+
+
+Terraform A to Z
+https://www.youtube.com/watch?v=5sZAx2ylsOo&list=PL5jQH1Kzu9zpH-T9-z-cdrUEIsvLLRzUY&index=6
+
+
+Google Cloud 
+
+https://www.youtube.com/watch?v=ZhsQWxnzWrk
+
+
+Deploy to AWS with Terraform within a GitHub Action
+https://www.youtube.com/watch?v=GowFk_5Rx_I
+
+
+ci/cd with devops 
+https://www.youtube.com/watch?v=1QazSvGIUuA&t=3350s
+
+
+Veeam backup with OCI
+https://medium.com/@hiteshgondalia/oci-configuring-the-object-storage-as-veeam-backup-repositories-c207da808c0a
+
+https://mytechnugget.com/2025/how-to-add-an-oci-s3-bucket-as-a-veeam-repository/?utm_source=chatgpt.com

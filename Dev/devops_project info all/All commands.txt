@@ -1,0 +1,25 @@
+
+
+touch app.js 
+
+## To create a new file 
+
+node app.js 
+
+
+npm install express
+
+
+access Key user name : 
+arman 
+
+access key : 
+
+AKIA37J7KREDOMFANWWU
+
+Secret key : 
+5qUjJQuspjLlFJod44JHMy9/HdzaI72k4u6iZZ5h
+
+Bucket Name : 
+ec2-example-app-terraform-state-bucket10
+
